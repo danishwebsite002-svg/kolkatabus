@@ -7741,3 +7741,6 @@ button:focus {
     color: var(--title-color2) !important;
 } */
 
+
+.split-line, .text-effect, .section-title h1, .section-title { overflow: visible !important; }
+
