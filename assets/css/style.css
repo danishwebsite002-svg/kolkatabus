@@ -3688,7 +3688,7 @@ h2.testi-title {
 ============================================= */
 
 .latest-blog-section {
-  padding: 100px 0 215px;
+  padding: 100px 0 5px;
   position: relative;
   z-index: 1;
   background-color: black;
