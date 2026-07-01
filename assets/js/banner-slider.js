@@ -6,7 +6,7 @@
             
             // Initialize Swiper
             var heroSwiper = new Swiper('.custom-hero-swiper', {
-                slidesPerView: 'auto',
+                slidesPerView: 3,
                 spaceBetween: 20,
                 loop: true,
                 speed: 1000,
