@@ -6,7 +6,7 @@
             
             // Initialize Swiper
             var heroSwiper = new Swiper('.custom-hero-swiper', {
-                slidesPerView: 3,
+                slidesPerView: 'auto',
                 spaceBetween: 20,
                 loop: true,
                 speed: 1000,
@@ -20,11 +20,11 @@
                 },
                 breakpoints: {
                     320: {
-                        slidesPerView: 1,
+                        slidesPerView: 'auto',
                         stretch: 0
                     },
                     768: {
-                        slidesPerView: 2,
+                        slidesPerView: 'auto',
                         stretch: 80
                     }
                 }
